@@ -38,7 +38,7 @@ disbut(bot.client)
 
 const fetch = require('node-fetch');
 
-bot.loadCommands(`./commands/`)
+bot.loadCommands(`./Commands/`)
 
 bot.onMessage({
   guildOnly: true,
