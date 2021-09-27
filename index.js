@@ -13,7 +13,7 @@ app.listen(3000, () => console.log(`PROPER FUNCTIONING`));
   
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://Lara:Larachristinasaunders331@lara.kizqg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", {
+mongoose.connect("MONGODB URL", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     keepAlive: true,
@@ -24,7 +24,7 @@ const Discord = require("discord.js");
 
 const bot = new Aoijs.Bot({
 
-    token:"ODkxNzgzMDYyNDc0NjIxMDA4.YVDXsg.6WxkshhUmffKxSrFo-HuRjwWQww", 
+    token:"xxxxxxxxxxxxxxx", 
 
     prefix:['$getservervar[prefix]','$getglobaluservar[up]'],
 fetchInvites: true
