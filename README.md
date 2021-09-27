@@ -2,7 +2,7 @@
 
 # Horizon 
 
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=OP%20Support)](https://discord.gg/v5PvUGa2m2)
+[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=Saturn%20Palace)](https://discord.gg/v5PvUGa2m2)
 
 
 
