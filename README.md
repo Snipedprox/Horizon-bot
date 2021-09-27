@@ -1,14 +1,14 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="OP" src="blob:https://web.whatsapp.com/284aef95-c8ed-46ea-a6a3-080d52b2ae28.png">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="OP" src="blob:https://avatars.githubusercontent.com/u/83202021?s=200&v=4">  
 
 # Horizon 
 
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=Saturn%20Palace)](https://discord.gg/v5PvUGa2m2)
+[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=Saturn%20palace)](https://discord.gg/v5PvUGa2m2)
 
 
 
 > Very good moderation / multipurpose bot
 
-Horizon is a Discord bot coded in JavaScript with [aoi.js](https://discord.js.org), [Mongoose](https://mongoosejs.com/docs/api.html) coded by [Snipedprox](https://github.com/Snipedprox).  
+Horizon is a Discord bot coded in JavaScript with [aoi.js](https://aoi.js.org/), [Mongoose](https://mongoosejs.com/docs/api.html) coded by [Snipedprox](https://github.com/Snipedprox).  
 Feel free to add a star ⭐ to the repository to promote the project!
 
 ## Features
