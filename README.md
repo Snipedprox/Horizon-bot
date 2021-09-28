@@ -1,8 +1,6 @@
-![Horizon avatar](https://octodex.github.com/Images/Used/7a5018bb6e38e7b958e75d1db36e52ca.jpg)
+
 
 # Horizon 
-
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=Saturn%20palace)](https://discord.gg/v5PvUGa2m2)
 
 
 
