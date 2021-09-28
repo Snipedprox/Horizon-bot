@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Horizon" src="blob:Images/Used/7a5018bb6e38e7b958e75d1db36e52ca.jpg">  
+![Horizon avatar](https://octodex.github.com/Images/Used/7a5018bb6e38e7b958e75d1db36e52ca.jpg)
 
 # Horizon 
 
