@@ -14,7 +14,7 @@ Feel free to add a star ⭐ to the repository to promote the project!
 ### Complete Bot
 
 Horizon offers :
-*   ✉️ Almost 100 commands
+*   ✉️  100+ commands
 *   🎶 Music commands
 *   ⚙️ Guild configuration (prefix)
 *   😀 Commands made pleasant thanks to the many emojis
